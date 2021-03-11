@@ -1,0 +1,101 @@
+
+1 – Faça um script que peça um número e então mostre a mensagem:
+ O número informado foi [número].
+
+2 - Faça um script que peça dois números e imprima a soma.
+
+3 - Faça um script que peça 3 notas de um aluno e mostra sua média.
+
+4 - Faça um script que converta metros para centímetros.
+
+5 - Faça um script que calcule a área de um quadrado, em seguida mostre
+o dobro desta área para o usuário.
+
+6 - Faça um script que pergunte quanto você ganha por hora e o número de
+horas trabalhadas no mês. Calcule e mostre o total do seu salário no
+referido mês.
+
+7 - Faça um script que peça a temperatura em graus Celsius, transforme e
+mostre em graus Farenheit.
+
+8 – Desenvolva um programa em PHP para ler o valor de uma variável e
+definir se ele é maior que 10.
+
+9 - Faça um programa em PHP onde verifica se o valor da variável A é
+maior ou menor que o valor da variável B. A mensagem a ser impressa deve
+ser “A maior que B” ou “A menor que B”.
+
+10 - Tendo como dado de entrada a altura (h) de uma pessoa, construa um
+script que calcule seu peso ideal, utilizando as seguintes fórmulas:
+Para homens: (72.7*h) - 58
+Para mulheres: (62.1*h) - 44.7
+
+11 - Faça um programa que permita entrar o quanto você ganha por hora e o
+número de horas trabalhadas no mês. Calcule e mostre o total do seu
+salário no referido mês, sabendo-se que são descontados 11% para o
+Imposto de Renda, 8% para o INSS e 5% para o sindicato, faça um script que
+nos dê:
+a.	salário bruto.
+b.	quanto pagou ao INSS.
+c.	quanto pagou ao sindicato.
+d.	o salário líquido.
+e.	calcule os descontos e o salário líquido, conforme a tabela abaixo:
++ Salário Bruto : R$
+- IR (11%) : R$
+- INSS (8%) : R$
+- Sindicato ( 5%) : R$
+= Salário Liquido : R$
+Obs.: Salário Bruto - Descontos = Salário Líquido.
+
+___________________________________________________
+
+1 -Faça um programa que leia através de uma função, os valores das 4
+notas bimestrais de um aluno, calcule a sua média e verifique se ele foi
+aprovado ou não. Se a média for maior que 5, ele está aprovado. Se for
+menor que 5, ele foi reprovado.
+
+2 – Desenvolva um código que possa entrar com 02 valores através de uma
+função. Esses valores equivalem a base a potência. A função deverá
+retornar o resultado dessa potência. Por exemplo:
+Valor1=3, Valor2=4. O resultado é 81.
+
+3 - A série de Fibonacci é uma sequência de números, cujos dois primeiros
+são 0 e 1. O termo seguinte da sequência é obtido somando os dois
+anteriores. Faça uma script em PHP que solicite um inteiro positivo ao
+usuário, n. Então uma função exibe todos os termos da sequência até o
+n-ésimo termo. Use recursividade.
+
+4 – Elabore uma função para ler os 03 valores dos índices A,B e C de uma
+equação do segundo grau e depois calcule o valor de DELTA. Essa função
+deverá verificar se o DELTA é : Maior que zero, menor que zero ou igual a
+zero. Depois, se o valor de DELTA for maior que zero, deverá calcular os
+valores de X1 e X2 da sua equação.
+
+5 – Desenvolva um código em PHP que permita a inserção de 03 valores
+inteiros e diferentes entre si e fazer uma função para retornar esses
+valores em ordem crescente.
+
+
+
+
+PESQUISE A APLICAÇÃO DAS SEGUINTES FUNÇÕES DE STRING E DEPOIS DESENVOLVA UM PEQUENO CÓDIGO DE EXEMPLO DE APLICAÇÃO DE CADA UMA DESSAS FUNÇÕES.
+Função printf()
+Função print_r()
+Função wordwrap()
+Função strlen()
+Função trim()
+Função ltrim()
+Função rtrim()
+Função str_word_count()
+Função explode()
+Função str_split()
+Função implode()
+Função chr()
+Função ord()
+Função strtoupper()
+Função strtolower()
+Função md5()
+Função crypt()
+Função hash()
+Função str_replace()
+Função isset()
